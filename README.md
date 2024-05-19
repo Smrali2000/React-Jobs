@@ -1,8 +1,9 @@
 # React + Vite
+React Fundamentals Learning Project
+This project serves as a hands-on learning experience for mastering React fundamentals, including hooks, routing, and integrating icons. It's designed to provide a practical understanding of these core concepts through a simple React.js application.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Features:
+Fundamentals: Explore React basics such as components, state management, and lifecycle methods.
+Hooks: Experiment with useState, useEffect, and other hooks for managing state and side effects.
+Routing: Implement navigation between different views/pages using React Router Dom.
+Icons: Enhance the user interface with icons from libraries like React Icons or Font Awesome.
